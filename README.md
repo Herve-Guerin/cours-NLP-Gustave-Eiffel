@@ -1,2 +1,2 @@
-# cours-NLP-ESIEE
-Eléments du cours NLP ESIEE 2019-2020
+# cours-NLP-Gustave Eiffel
+Eléments du cours NLP à Gustave Eiffel 2020-2021
